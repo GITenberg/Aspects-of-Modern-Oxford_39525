@@ -4,7 +4,7 @@ contributor:
   illustrators:
   - agent_name: Lorimer, John Henry
     alias: Lorimer, J. H.
-    birthdate: &id001 1856
+    birthdate: 1856
     deathdate: 1936
     gutenberg_agent_id: '40060'
     url: http://www.gutenberg.org/2009/agents/40060
@@ -30,12 +30,14 @@ creator:
     aliases:
     - Godley, Aluredus D.
     - Godley, Alfred Denis
-    birthdate: *id001
+    birthdate: 1856
     deathdate: 1925
     gutenberg_agent_id: '7676'
     url: http://www.gutenberg.org/2009/agents/7676
     wikipedia: http://en.wikipedia.org/wiki/A._D._Godley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39525#Aspects-of-Modern-Oxford
 gutenberg_issued: '2012-04-23'
 gutenberg_type: Text
 identifiers:
