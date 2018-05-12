@@ -1,0 +1,54 @@
+_repo: Aspects-of-Modern-Oxford_39525
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Lorimer, John Henry
+    alias: Lorimer, J. H.
+    birthdate: &id001 1856
+    deathdate: 1936
+    gutenberg_agent_id: '40060'
+    url: http://www.gutenberg.org/2009/agents/40060
+  - agent_name: Speed, Lancelot
+    birthdate: 1860
+    deathdate: 1931
+    gutenberg_agent_id: '9847'
+    url: http://www.gutenberg.org/2009/agents/9847
+    wikipedia: http://en.wikipedia.org/wiki/Lancelot_Speed
+  - agent_name: Stamp, E.
+    gutenberg_agent_id: '40062'
+    url: http://www.gutenberg.org/2009/agents/40062
+  - agent_name: Crawford, T. Hamilton
+    alias: Crawford, T. H.
+    gutenberg_agent_id: '40061'
+    url: http://www.gutenberg.org/2009/agents/40061
+covers:
+- cover_type: archival
+  image_path: 39525-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Godley, A. D. (Alfred Denis)
+    aliases:
+    - Godley, Aluredus D.
+    - Godley, Alfred Denis
+    birthdate: *id001
+    deathdate: 1925
+    gutenberg_agent_id: '7676'
+    url: http://www.gutenberg.org/2009/agents/7676
+    wikipedia: http://en.wikipedia.org/wiki/A._D._Godley
+description: ''
+gutenberg_issued: '2012-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39525'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'University of Oxford'
+- !lcc 'LF'
+tableOfContents: Of dons and colleges -- Of undergraduates -- Of sightseers -- Of
+  examinations -- University journalism -- The University as seen from outside --
+  Diary of a don -- The University as a place of learned leisure.
+title: Aspects of Modern Oxford, by a Mere Don
+url: http://www.gutenberg.org/ebooks/39525
